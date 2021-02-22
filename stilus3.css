@@ -1,0 +1,20 @@
+p{
+    background-color: lavenderblush;
+    padding: 10px;
+    margin: 1%;
+    width: 20%;
+}
+p::first-letter{
+    font-size: 1.8em;
+    font-weight: bolder;
+    color: red;
+}
+#anyu{
+    float: left;
+}
+#apu{
+    float: left;
+}
+#mama{
+    float: left;
+}
